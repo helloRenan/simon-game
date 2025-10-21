@@ -83,4 +83,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+## 🏆 Acknowledgements
+
+This project was created as a part of learning and practicing JavaScript fundamentals. A big thanks to all the open-source tools and resources available online to help make this project possible!
+
+---
+
 Enjoy the game and have fun mastering JavaScript and jQuery!
