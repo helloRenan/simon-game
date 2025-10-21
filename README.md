@@ -1,4 +1,4 @@
-# 🎮 Simon Game
+# 🧠 Simon Game
 
 Welcome to the Simon Game repository! This project is a simple implementation of the classic Simon memory game built using **HTML**, **CSS**, and **JavaScript**. The purpose of this project is to learn and practice JavaScript fundamentals, with a particular focus on jQuery for DOM manipulation and event handling.
 
