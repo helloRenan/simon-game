@@ -61,10 +61,10 @@ Simon Game/
 ├── game.js        # The JavaScript file that contains the game logic
 └── sounds/          # Folder containing sound files for button clicks
 ```
-- **index.html**: Contains the structure of the game interface, including the clickable buttons.
-- **style.css**: Adds styles for the buttons, layout, and animations.
-- **game.js**: Handles the game logic, including the sequence generation and player interaction.
-- **sounds/**: Contains the sound files played when the buttons are clicked or the game ends.
+**index.html**: Contains the structure of the game interface, including the clickable buttons.
+**style.css**: Adds styles for the buttons, layout, and animations.
+**game.js**: Handles the game logic, including the sequence generation and player interaction.
+**sounds/**: Contains the sound files played when the buttons are clicked or the game ends.
 
 ---
 
@@ -76,7 +76,7 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 
 ## 🔗 License
 
-This project is open source and available under the `MIT License`
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
