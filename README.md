@@ -58,12 +58,12 @@ Simon Game/
 │
 ├── index.html        # The main HTML file
 ├── style.css        # The CSS file for styling the game
-├── script.js        # The JavaScript file that contains the game logic
+├── game.js        # The JavaScript file that contains the game logic
 └── sounds/          # Folder containing sound files for button clicks
 ```
 - **index.html**: Contains the structure of the game interface, including the clickable buttons.
 - **style.css**: Adds styles for the buttons, layout, and animations.
-- **script.js**: Handles the game logic, including the sequence generation and player interaction.
+- **game.js**: Handles the game logic, including the sequence generation and player interaction.
 - **sounds/**: Contains the sound files played when the buttons are clicked or the game ends.
 
 ---
