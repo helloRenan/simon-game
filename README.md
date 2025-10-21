@@ -62,8 +62,11 @@ Simon Game/
 └── sounds/          # Folder containing sound files for button clicks
 ```
 **index.html**: Contains the structure of the game interface, including the clickable buttons.
+
 **style.css**: Adds styles for the buttons, layout, and animations.
+
 **game.js**: Handles the game logic, including the sequence generation and player interaction.
+
 **sounds/**: Contains the sound files played when the buttons are clicked or the game ends.
 
 ---
